@@ -1,0 +1,2 @@
+# fastCorrDiff
+R package fastCorrDiff
